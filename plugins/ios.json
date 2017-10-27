@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.bletest.gtk"
+        },
+        "cordova-plugin-ble-peripheral": {
+            "PACKAGE_NAME": "com.bletest.gtk"
+        },
+        "cordova-plugin-flashlight": {
+            "PACKAGE_NAME": "com.bletest.gtk"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.bletest.gtk"
+        }
+    },
+    "dependent_plugins": {}
+}
